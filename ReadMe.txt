@@ -1,5 +1,5 @@
-// ReadMe Abhinav Gundlapalli
-// 1454321
+ReadMe
+
 enter the following Commands
 
 1. hdfs dfs -rm -r -f /cloudc16/
